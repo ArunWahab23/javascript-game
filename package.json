@@ -2,7 +2,7 @@
   "name": "javascript_game-assessment",
   "version": "1.0.0",
   "description": "create a javascript game to lean about concepts in javascript entry point: (index.js)",
-  "main": "index.js",
+  "main": "user-gameplay.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
